@@ -1,0 +1,37 @@
+* {
+    padding: 0px 10px 0px 10px;
+}
+
+#header{
+    background-color: rgb(255, 187, 0);
+}
+
+#links {
+    float: left;
+    width: 22.5%;
+    margin: 0 0 0 2.5%;
+    background-color: pink;
+}
+
+#main{
+    float: left;
+    width: 35%;
+    margin: 0 2.5%;
+    background-color: pink;
+}
+
+#extras{
+    float: left;
+    width: 22.5%;
+    margin: 0 2.5% 0 0;
+    background-color: aqua;
+}
+
+#footer{
+    clear: left;
+    background-color: blueviolet;
+}
+
+h1 {
+    text-transform: uppercase;
+}

@@ -1,0 +1,34 @@
+* {
+    padding: 0px 10px 0px 10px;
+}
+
+#wrapper{
+    width: 960px
+}
+
+#header{
+    background-color: rgb(255, 187, 0);
+}
+
+#main{
+    float: left;
+    width: 600;
+    margin: 0 20px;
+    background-color: pink;
+}
+
+#extras{
+    float: left;
+    width: 250;
+    margin: 0 20px 0 0;
+    background-color: aqua;
+}
+
+#footer{
+    clear: left;
+    background-color: blueviolet;
+}
+
+h1 {
+    text-transform: uppercase;
+}

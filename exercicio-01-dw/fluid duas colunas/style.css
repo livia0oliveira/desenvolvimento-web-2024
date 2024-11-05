@@ -1,0 +1,29 @@
+* {
+    padding: 0px 10px 0px 10px;
+}
+
+#header{
+    background-color: rgb(255, 187, 0);
+}
+
+#main{
+    float: left;
+    width: 60%;
+    margin: 0 5%;
+    background-color: pink;
+}
+
+#extras{
+    float: left;
+    width: 25%;
+    background-color: aqua;
+}
+
+#footer{
+    clear: left;
+    background-color: blueviolet;
+}
+
+h1 {
+    text-transform: uppercase;
+}

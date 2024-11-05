@@ -1,0 +1,42 @@
+* {
+    padding: 0px 10px 0px 10px;
+}
+
+#wrapper{
+    width: 960px
+}
+
+#header{
+    background-color: rgb(255, 187, 0);
+}
+
+#main{
+    width: 520;
+    position: absolute;
+    top: 50;
+    left: 220px;
+    margin: 0;
+    background-color: pink;
+}
+
+#extras{
+    width: 190px;
+    position: absolute;
+    top: 50;
+    left: 0;
+    margin: 0;
+    background-color: aqua;
+}
+
+#news{
+    width: 200px;
+    position: absolute;
+    top: 50;
+    right: 100;
+    margin: 0;
+    background-color: blueviolet;
+}
+
+h1 {
+    text-transform: uppercase;
+}
