@@ -19,8 +19,6 @@ app.get('/v2/:name/json', function(req, res){
     req.params.name})
 })
 
-app.get('/v3/*')
-
 app.get('/v3/:lang/:name/json', function(req, res){
     switch (req.params.lang){
         case 'pt-br':
