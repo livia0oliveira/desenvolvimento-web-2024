@@ -1,0 +1,7 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Outros arquivos a serem ignorados, como logs ou arquivos temporários
+*.log
+*.env
+.DS_Store
